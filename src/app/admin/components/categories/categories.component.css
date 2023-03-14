@@ -1,0 +1,48 @@
+
+.table_block{
+    height: 100vh;
+}
+.mat-elevation-z8{
+    height: 90%;
+    padding-top: 10px;
+
+}
+.bold{
+    font-weight: 700;
+}
+mat-paginator{
+    background-color: #d4d4d45e;
+}
+
+.buttons{
+    padding: 0;
+}
+td.mat-mdc-cell.mdc-data-table__cell.cdk-cell.cdk-column-img.mat-column-img{
+    padding-top: 6px;
+}
+.block{
+    background-color: #0000002e;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    padding-top: 70px;
+}
+.form_block{
+    width: 40%;
+    margin: auto;
+    background-color: #232536;
+    padding: 60px 20px;
+    border-radius: 17px
+
+}
+.mat-mdc-form-field{
+    display: block;
+    margin-bottom: 20px;
+}
+#form_btn{
+    margin-right: 10px;
+}
+button#form_btn:disabled{
+    color: rgb(87, 87, 87);
+}
